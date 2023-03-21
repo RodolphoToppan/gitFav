@@ -140,7 +140,7 @@ export class FavoritesView extends Favorites {
 
     emptyPage.classList.add('empty')
     emptyPage.innerHTML = `
-    <img src="./assets/empty.svg" alt="Uma estrela com cara de surpresa" />
+    <img src="../assets/empty.svg" alt="Uma estrela com cara de surpresa" />
     <h2>Nenhum favorito ainda</h2>
     `
 
